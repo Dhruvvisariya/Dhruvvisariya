@@ -20,13 +20,13 @@ Here's a glimpse of some of the repositories I've been working on:
 - **[powersupply](https://github.com/Dhruvvisariya/powersupply)**:
   - A hardware project featuring a DC power supply using diodes and a bridge rectifier.
 
-- **[OD-1-phase-2](https://github.com/Dhruvvisariya/OD-1-phase-2)**:
+- **[OD-1-phase-2](https://github.com/Dhruvvisariya/OD-I-phase-2)**:
   - Object detection system utilizing OpenCV and email alert notifications for real-time updates.
 
 - **[DSSA](https://github.com/Dhruvvisariya/DSSA)**:
   - A web scraping project analyzing YouTube comments for sentiment analysis.
 
-- **[OD-1-Phase-1](https://github.com/Dhruvvisariya/OD-1-Phase-1)**:
+- **[OD-1-Phase-1](https://github.com/Dhruvvisariya/OD-I-Phase-1)**:
   - Initial phase of an object detection and image storage project using Firebase Cloud.
 
 - **[Ygiam](https://github.com/Dhruvvisariya/Ygiam)**:
