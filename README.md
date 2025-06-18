@@ -53,7 +53,7 @@ I'm currently exploring advanced cryptanalysis techniques, machine learning, and
 ## 💬 Let's Connect!
 Feel free to connect with me or check out my work here:
 - 🌐 [GitHub Profile](https://github.com/Dhruvvisariya)
-- 📫 Email: dhruv.visariya@example.com
+- 📫 Email: dhruvvisariya@gmail.com
 
 ---
 
