@@ -8,7 +8,7 @@ I'm a tech enthusiast and a passionate developer from Prayagraj, India. I love d
 ## 🚀 My Projects
 Here's a glimpse of some of the repositories I've been working on:
 
-- **[DPA-AES](https://github.com/Dhruvvisariya/DPA-AES)**: 
+- **[DPA-AES](https://github.com/Dhruvvisariya/DPA-AES-1)**: 
   - A cryptanalysis project demonstrating Differential Power Analysis attacks on AES. Focused on generating synthetic power traces and performing DPA.
 
 - **[LibraryFirstGit](https://github.com/Dhruvvisariya/LibraryFirstGit)**: 
